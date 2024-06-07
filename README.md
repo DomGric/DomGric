@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**DomGric/DomGric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👋 Hello, World!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm Domen 🚀
+
+I'm a passionate software developer with a love for coding, problem-solving, and continuous learning. Whether it's building robust web applications, delving into data science, or exploring new technologies, I thrive on turning ideas into reality.
+
+---
+
+### 💻 Tech Stack:
+- **Languages**: JavaScript, C#, Python
+- **Web Development**: HTML, CSS, React, Node.js
+
+---
+
+### 🌱 I’m currently learning:
+- I'm currently learning with help from <a href="docs.github.com">docs.github.com</a>
+
+---
